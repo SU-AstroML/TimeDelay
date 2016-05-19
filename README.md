@@ -3,6 +3,9 @@ Final project for the AstroML course, based on data from TDC1
 Page of the challeng, including data:
 http://timedelaychallenge.org/
 
+### [Course report](https://github.com/SU-AstroML/TimeDelay/blob/master/Report/course_report.pdf "report")
+### [Course presentation](https://github.com/SU-AstroML/TimeDelay/blob/master/Saghar_Presentation.pdf "presentation")
+ 
 # Data access:
 The intermediate data files are too large for GitHub. Please write to saghar.asadi@astro.su.se if you don't want to spend the CPU time to regenerate them all from the raw data in /tdc1/ 
 
